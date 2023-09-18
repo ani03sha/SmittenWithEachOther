@@ -1,11 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-
-import { Button } from "react-bootstrap";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Popup from "reactjs-popup";
 import Countdown from 'react-countdown';
-import useSmoothScrollTo from "hooks/useSmoothScrollTo";
 import ImageCard from "components/ImageCard";
 
 const Top = ({ frontmatter }) => {
@@ -13,11 +8,9 @@ const Top = ({ frontmatter }) => {
         return null;
     }
 
-    const { header, subheader, imageFileName, jumpToAnchor } = frontmatter;
-    // eslint-disable-next-line react-hooks/rules-of-hooks
-    const scrollToSection = useSmoothScrollTo(jumpToAnchor);
+    const { header, subheader, imageFileName } = frontmatter;
 
-    const renderer = ({ days }) => {
+    const renderer = () => {
         return (
             <></>
         )
