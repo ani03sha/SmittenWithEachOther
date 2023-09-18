@@ -126,12 +126,12 @@ const IndexPage = ({ data, pathContext: { langKey, defaultLang, langTextMap } })
     return (
         <>
             <SEO lang={langKey} title="Aakanksha & Anirudh" keywords={keywords} description={description} />
+            <FlowerShower />
             <Navbar
                 anchors={anchors}
                 frontmatter={navBarNode.frontmatter}
                 extraItems={langSelectorPart}
             />
-            <FlowerShower />
             <Top frontmatter={topNode.frontmatter} />
             {
                 // dynamically import sections
