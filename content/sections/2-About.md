@@ -29,7 +29,7 @@ timeline: [
     content: "💍 After our engagement, we made the bold decision to switch jobs together. It wasn't always smooth sailing, and there were moments of frustration as we navigated this new journey side by side. 📚🤯 But one thing remained constant—we were unwavering in our support for each other. We studied together 📖📝, tackled challenges together 💪, and celebrated victories together 🎉. We leaned on one another during the tough times 😔🤗 and cheered each other on when things went well 🙌. It was in these shared experiences that our bond grew stronger, and we learned that as a team, we could conquer anything life threw our way. 💑🌟"
   },
   {
-    imageFileName: "about/a_Trip_to_the_mountains.jpg",
+    imageFileName: "a_Trip_to_the_mountains.jpg",
     subheader: "A Trip to the Mountains",
     content: "🏔️ Our journey to the mountains was a tale of exploration and togetherness. In the crisp mountain air, we embraced the joy of trekking, our hearts warmed by laughter and love. Surrounded by nature's grandeur, we found solace in each other's company, creating memories as beautiful as the snow-capped peaks. Every step was an adventure 🌄, every pause a chance to admire the breathtaking views. We clicked countless photos 📷, capturing not just the picturesque landscapes but the moments of pure happiness we shared. It was a trip that etched into our hearts 💖, a reminder that the best adventures are those where love is the guiding star. 🌟"
   },
