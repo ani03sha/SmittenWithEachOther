@@ -16,14 +16,6 @@ const ImageCard = ({ className, imageFileName, imageAlt, header, subheader, extr
                         <div className="intro-text-no-button">
                             <div className="intro-heading">{header}</div>
                             <div className="intro-lead-in text-uppercase">{subheader}</div>
-                            <div className="text-uppercase">
-                                <div className="date">
-                                    October 20, 2023
-                                </div> {/* date */}
-                                <div className="time">
-                                    8PM IST
-                                </div> {/* time */}
-                            </div>
                         </div> {/* intro-text-no-button */}
                         <br />
                         {extraInfo}

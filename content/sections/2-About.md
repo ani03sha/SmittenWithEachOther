@@ -10,7 +10,7 @@ timeline: [
   },
   {
     imageFileName: "about/we_first_met.jpg",
-    subheader: "We first meet",
+    subheader: "We first met",
     content: "Our first date? 🍽️❤️ After days of texting, it was a big deal. Cozy pub, warm smiles, and slow eating (to stay longer, of course). Instantly, our connection grew deeper, laughter filled the air, and chemistry was undeniable. Time flew, and that magical night, we knew we were meant to be. It etched the start of a lifetime of beautiful moments. ✨💑💖"
   },
   {
@@ -19,7 +19,7 @@ timeline: [
     content: "Our love story deepened like a cherished book 📖❤️. From coffee shops ☕ to pubs 🌳, we explored the city, our bond growing with every adventure. Laughter became our soundtrack, and smiles said it all. Starry nights, city lights - building blocks of our enduring love. With each date, our hearts grew fonder, a testament to our boundless love story. 🌃💑💖"
   },
   {
-    imageFileName: "about/the_proposal.jpg",
+    imageFileName: "the_proposal.jpg",
     subheader: "The Proposal",
     content: "In a busy restaurant 🍽️, Anirudh took a bold step. One knee, a sparkling ring ✨, and shared dreams. The world blurred as he professed his love, Aakanksha's heart raced. Tears of joy, awe-struck onlookers, and a resounding YES! An unforgettable moment in their extraordinary journey. 💍❤️👏"
   },    
@@ -34,7 +34,12 @@ timeline: [
     content: "🏔️ Our journey to the mountains was a tale of exploration and togetherness. In the crisp mountain air, we embraced the joy of trekking, our hearts warmed by laughter and love. Surrounded by nature's grandeur, we found solace in each other's company, creating memories as beautiful as the snow-capped peaks. Every step was an adventure 🌄, every pause a chance to admire the breathtaking views. We clicked countless photos 📷, capturing not just the picturesque landscapes but the moments of pure happiness we shared. It was a trip that etched into our hearts 💖, a reminder that the best adventures are those where love is the guiding star. 🌟"
   },
   {
-    imageFileName: "about/9.jpg",
+    imageFileName: "about/last_date_before_getting_official.jpg",
+    subheader: "Last date before getting official",
+    content: "Beneath Church Street's starry night, our last unmarried date was pure magic. 🌙💑 We strolled, sharing dreams, laughter, and promises that bound our hearts. Amidst city hums, our fingers entwined, our souls danced. Café warmth mingled with our affection, while smiles painted our future in city lights. This night, a love story's inception, holds infinite, timeless love. 💫❤️🌃"
+  },
+  {
+    imageFileName: "about/the_d_day.jpg",
     imageContent: "October\r\n20th\r\n2023",
     header: "October 20, 2023",
     subheader: "The big day!"

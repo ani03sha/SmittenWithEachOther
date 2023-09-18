@@ -14,6 +14,7 @@ import breakDownAllNodes from "utils/breakDownAllNodes";
 import fileNameToSectionName from "utils/fileNameToSectionName";
 
 import "../style/main.scss";
+import FlowerShower from "components/FlowerAnimation";
 
 /**
  * get file name list from content/sections folder
@@ -130,6 +131,7 @@ const IndexPage = ({ data, pathContext: { langKey, defaultLang, langTextMap } })
                 frontmatter={navBarNode.frontmatter}
                 extraItems={langSelectorPart}
             />
+            <FlowerShower />
             <Top frontmatter={topNode.frontmatter} />
             {
                 // dynamically import sections
