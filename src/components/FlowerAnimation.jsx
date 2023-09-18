@@ -1,8 +1,9 @@
 import React from 'react'
-import useWindowSize from 'react-use/lib/useWindowSize'
 import Confetti from 'react-confetti'
+import useWindowSize from 'react-use/lib/useWindowSize'
 
 const FlowerShower = () => {
+    const { width, height } = useWindowSize()
     const confettiConfig = {
         angle: 90,
         spread: 120,
@@ -15,7 +16,10 @@ const FlowerShower = () => {
 
     return (
         <div className="heart-confetti-container">
-            <Confetti {...confettiConfig} />
+            <Confetti
+                width={width}
+                height={height}
+                {...confettiConfig} />
         </div>
     );
 }
